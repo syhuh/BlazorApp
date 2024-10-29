@@ -9,3 +9,7 @@ BlazorApp의 루트폴더에서 CMD나 Terminal을 이용하여 dotnet run을 �
 # 과제확인
 
 좌측 메뉴에서 Vote를 클릭하세요.
+
+# 데모확인
+
+http://3.35.169.73/vote
